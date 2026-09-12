@@ -6,6 +6,8 @@ Tableau de bord interactif développé avec **Streamlit** pour l'analyse statist
 
 - **Chargement de données** : Support CSV, Excel, JSON et TXT
 - <img width="1226" height="624" alt="c3494528-1312-4d99-9793-82202d4539fa" src="https://github.com/user-attachments/assets/6ed5392c-2a1c-4ae0-b83b-78e91e21d253" />
+<img width="78" height="48" alt="image" src="https://github.com/user-attachments/assets/9ede157d-3b6e-435d-b421-1784842ca398" />
+
 - **Résumé statistique** : Statistiques descriptives complètes
 - **Imputation** : Gestion des valeurs manquantes
 - **Analyses automatiques** :
