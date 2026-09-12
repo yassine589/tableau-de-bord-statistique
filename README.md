@@ -10,7 +10,8 @@ Tableau de bord interactif développé avec **Streamlit** pour l'analyse statist
 - <img width="1234" height="651" alt="7dfacb22-a4d3-42c4-b6ad-3bb0896e7f20" src="https://github.com/user-attachments/assets/bbb8229c-5e79-47e0-b78e-a0810741c5f2" />
 
 - **Imputation** : Gestion des valeurs manquantes
-- <img width="1234" height="651" alt="7dfacb22-a4d3-42c4-b6ad-3bb0896e7f20" src="https://github.com/user-attachments/assets/5580ba47-7d1f-46dc-a51b-1c8bbbfd4d0f" />
+<img width="1221" height="628" alt="b4a1172f-904c-46ff-bf8f-76c96d7ac329 (1)" src="https://github.com/user-attachments/assets/6f1461cb-e234-4d93-9e4f-fbf57cf3b7c0" />
+
 
 - **Analyses automatiques** :
   - Détection des valeurs aberrantes (outliers)
