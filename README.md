@@ -18,9 +18,11 @@ Tableau de bord interactif développé avec **Streamlit** pour l'analyse statist
   - Suggestions de relations (corrélations)
   <img width="1237" height="653" alt="59df9f63-d917-47a5-afee-1bf8238978fc" src="https://github.com/user-attachments/assets/4365805f-ee8b-475c-b696-98c6aece2365" />
 - **Visualisations** : Histogrammes, densités, boxplots, scatter plots, Q-Q plots, etc.
-- - <img width="1237" height="653" alt="59df9f63-d917-47a5-afee-1bf8238978fc" src="https://github.com/user-attachments/assets/cec79ebb-f1a5-433b-86c6-a532a864e138" />
+<img width="1229" height="648" alt="26b64743-bb30-46a5-aab4-5acae3b2811e" src="https://github.com/user-attachments/assets/b9d31af1-6f35-4b63-86cd-5acfabab83da" />
+
 - **Corrélations** : Matrice de corrélation interactive
-- - <img width="1237" height="653" alt="59df9f63-d917-47a5-afee-1bf8238978fc" src="https://github.com/user-attachments/assets/cec79ebb-f1a5-433b-86c6-a532a864e138" />
+-<img width="1222" height="623" alt="37fc3f7a-62e9-45cc-8ea5-060597737781" src="https://github.com/user-attachments/assets/688eb459-0860-4000-9d84-819aefb4abd2" />
+
 - **Régression Linéaire** : Analyse de régression avec diagnostics
 - **Tests Statistiques** : Shapiro-Wilk, Levene, ANOVA, T-test, Chi-squared
 1. Clone le repository :
